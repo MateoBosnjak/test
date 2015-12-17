@@ -1,1 +1,2 @@
 Zweite Textdatei erzeugt.
+Text 2 wurde geupdatet.
